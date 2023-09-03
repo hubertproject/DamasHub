@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascribt to start with my frontend development
 - 💞️ I’m looking to collaborate with other software engineers out there to enhance my understanding and also help my journey to be sucess
 - 📫 How to reach me ...
-- @dehubkhid on twitter 
+- @HubertDhk on twitter 
 
 
 <!---
